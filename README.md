@@ -1,16 +1,25 @@
-# deep_shop
+shop app
 
-online shop
+login and logout
 
-## Getting Started
+reset password
 
-This project is a starting point for a Flutter application.
+create account
 
-A few resources to get you started if this is your first Flutter project:
+profile screen to show user data and can update it
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+show new product
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+show product accourding catagories
+
+add to cart
+
+favourite
+
+product screen
+
+multi product
+
+and others
+
+statemangement bloc
